@@ -13,7 +13,7 @@ const WeddingHeader = () => {
     >
       <div className="mb-6">
         <div className="text-6xl mb-2">💕</div>
-        <div className="w-32 h-px bg-gradient-to-r from-transparent via-purple-300 to-transparent mx-auto mb-8"></div>
+        <div className="w-32 h-px bg-gradient-to-r from-transparent via-green-300 to-transparent mx-auto mb-8"></div>
       </div>
 
       <h1 className="font-cormorant md:text-7xl text-gray-800 mb-4 leading-tight text-center text-5xl font-normal">
@@ -25,7 +25,7 @@ const WeddingHeader = () => {
       </p>
 
       <div className="text-4xl mb-4">🌸</div>
-      <div className="w-32 h-px bg-gradient-to-r from-transparent via-pink-300 to-transparent mx-auto"></div>
+      <div className="w-32 h-px bg-gradient-to-r from-transparent via-emerald-300 to-transparent mx-auto"></div>
     </div>
   );
 };

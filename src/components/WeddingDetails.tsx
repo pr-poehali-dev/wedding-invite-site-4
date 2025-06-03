@@ -16,15 +16,15 @@ const WeddingDetails = () => {
               </p>
               <p className="font-montserrat text-lg text-gray-600">в 14:00</p>
               <p className="font-montserrat text-base text-gray-600">
-                Храм Христа Спасителя
+                Шатёр "Венеция"
               </p>
               <p className="font-montserrat text-sm text-gray-500">
-                ул. Волхонка, 15, Москва
+                г. Чебоксары, пр-кт Максима Горького, 2М
               </p>
             </div>
           </div>
 
-          <div className="w-24 h-px bg-gradient-to-r from-transparent via-purple-300 to-transparent mx-auto"></div>
+          <div className="w-24 h-px bg-gradient-to-r from-transparent via-green-300 to-transparent mx-auto"></div>
 
           <div className="space-y-4">
             <div className="text-3xl">🥂</div>
@@ -37,10 +37,10 @@ const WeddingDetails = () => {
               </p>
               <p className="font-montserrat text-lg text-gray-600">в 18:00</p>
               <p className="font-montserrat text-base text-gray-600">
-                Ресторан "Золотая осень"
+                Шатёр "Венеция"
               </p>
               <p className="font-montserrat text-sm text-gray-500">
-                Петровский бульвар, 12, Москва
+                г. Чебоксары, пр-кт Максима Горького, 2М
               </p>
             </div>
           </div>
