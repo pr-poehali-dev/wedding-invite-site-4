@@ -13,7 +13,7 @@ const RSVPSection = () => {
           </h3>
 
           <p className="font-montserrat text-gray-600 text-sm md:text-base leading-relaxed">
-            Пожалуйста, сообщите о своем присутствии до 1 июля 2024 года
+            Пожалуйста, сообщите о своем присутствии до 1 сентября 2025 года
           </p>
 
           <div className="space-y-3 pt-4">

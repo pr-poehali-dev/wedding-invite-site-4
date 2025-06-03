@@ -12,7 +12,7 @@ const WeddingDetails = () => {
             </h2>
             <div className="space-y-2">
               <p className="font-montserrat text-xl text-gray-700 font-medium">
-                15 июля 2024
+                11 сентября 2025
               </p>
               <p className="font-montserrat text-lg text-gray-600">в 14:00</p>
               <p className="font-montserrat text-base text-gray-600">
@@ -33,7 +33,7 @@ const WeddingDetails = () => {
             </h2>
             <div className="space-y-2">
               <p className="font-montserrat text-xl text-gray-700 font-medium">
-                15 июля 2024
+                11 сентября 2025
               </p>
               <p className="font-montserrat text-lg text-gray-600">в 18:00</p>
               <p className="font-montserrat text-base text-gray-600">
