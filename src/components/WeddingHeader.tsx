@@ -16,8 +16,8 @@ const WeddingHeader = () => {
         <div className="w-32 h-px bg-gradient-to-r from-transparent via-purple-300 to-transparent mx-auto mb-8"></div>
       </div>
 
-      <h1 className="font-cormorant text-5xl md:text-7xl font-light text-gray-800 mb-4 leading-tight">
-        Анна & Михаил
+      <h1 className="font-cormorant md:text-7xl text-gray-800 mb-4 leading-tight text-center text-5xl font-normal">
+        Александр & Мария
       </h1>
 
       <p className="font-montserrat text-lg md:text-xl text-gray-600 tracking-wider uppercase mb-6">
